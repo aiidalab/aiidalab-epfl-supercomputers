@@ -1,1 +1,1 @@
-- [Setup Deneb](./setup_computer_deneb.ipynb)
+- [Setup Computer](./setup_computer.ipynb)
